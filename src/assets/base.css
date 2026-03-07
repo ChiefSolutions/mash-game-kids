@@ -1,0 +1,32 @@
+:root {
+  /*Font Sizes*/
+  --font-size-copy: 12px;
+  --font-size-medium: 14px;
+  --font-size-base: 16px;
+  --font-size-sub-title: 20px;
+  --font-size-large: 24px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 48px;
+
+  /*Colors*/
+  --color-faint: #C4C6D0;
+  --color-dark-teal: #0B4F4B;
+  --color-primary: #FFFFFF;
+  --color-secondary: #333333;
+
+  /*Spacing*/
+  --spacing-small: 12px;
+  --spacing-default: 16px;
+  --spacing-large: 20px;
+  --spacing-xl: 24px;
+  --spacing-xxl: 32px;
+
+  /*Border Radius*/
+  --border-radius-small: 8px;
+  --border-radius-default: 12px;
+}
+
+html, body, h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
