@@ -5,19 +5,27 @@ Enter your choices, hit **Predict the future**, and watch the app generate a sil
 Built with Vue.js — ideal for beginners, educators, or anyone who loves nostalgic web games.
 
 ---
+## Development
+
+- Vue.js
+- Vite
+- SASS (SCSS)
+---
 
 ## Screenshots
 
 Preview of the app in action, showing the form and the generated future results.
 
 - Form with data
-<img src="public/images/game-form-data-overview.png" width="1644" />
+  ![Screenshot](docs/images/game-form-data-overview.png)
 
 - Game result with predicted future
-  <img src="public/images/game-result-overlay.png" width="1644" />
+  ![Screenshot](docs/images/game-result-overlay.png)
 
 - Game result with selected and crossed out options
-  <img src="public/images/game-result-no-overlay.png" width="1644" />
+  ![Screenshot](docs/images/game-result-no-overlay.png)
+
+---
 
 ## Features
 
